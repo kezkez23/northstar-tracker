@@ -1,0 +1,1 @@
+{"name": "Northstar Life OS", "short_name": "Northstar", "start_url": "./index.html", "display": "standalone", "background_color": "#0b111a", "theme_color": "#0b111a", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
